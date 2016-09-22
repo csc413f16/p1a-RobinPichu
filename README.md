@@ -1,8 +1,8 @@
 Name: Robin Ma
 
-Compilation and Run Successful:
+Compilation and Run Successful: yes
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: yes
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
